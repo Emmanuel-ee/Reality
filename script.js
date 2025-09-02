@@ -20,22 +20,16 @@ const loveMessages = [
 ];
 
 const funnyGifs = [
-    // Romantic, funny, and affectionate GIFs
-    'https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif', // blowing kiss
-    'https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif', // cute dance
-    'https://media.giphy.com/media/1BcfiGlOGXzQk/giphy.gif', // hearts
-    'https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif', // hug
-    'https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif', // couple snuggle
-    'https://media.giphy.com/media/3o6Zt8zb1PpQb6vHHa/giphy.gif', // smile
-    'https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif', // wink
-    'https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif', // happy dance
-    'https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif', // funny
-    'https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif', // African woman
-    'https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif', // heart eyes
-    'https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif', // dancing
-    'https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif', // couple holding hands
-    'https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif', // Ankara
-    'https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif' // couple snuggle
+    'https://media.tenor.com/1c6vQvQw1g8AAAAC/love-you.gif', // love you
+    'https://media.tenor.com/2uyENRmiUt0AAAAC/love.gif', // love
+    'https://media.tenor.com/6Fz1bQKj5n8AAAAC/kiss-love.gif', // kiss
+    'https://media.tenor.com/8QF6Qn6Qb1wAAAAC/hug-couple.gif', // hug couple
+    'https://media.tenor.com/2Z4b6QwQK9wAAAAC/heart-cute.gif', // heart cute
+    'https://media.tenor.com/9QF6Qn6Qb1wAAAAC/couple-cuddle.gif', // cuddle
+    'https://media.tenor.com/3QF6Qn6Qb1wAAAAC/romantic-couple.gif', // romantic couple
+    'https://media.tenor.com/4QF6Qn6Qb1wAAAAC/romantic-love.gif', // romantic love
+    'https://media.tenor.com/5QF6Qn6Qb1wAAAAC/romantic-kiss.gif', // romantic kiss
+    'https://media.tenor.com/7QF6Qn6Qb1wAAAAC/romantic-hug.gif' // romantic hug
 ];
 
 let msgIndex = 0;
