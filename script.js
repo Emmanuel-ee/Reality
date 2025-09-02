@@ -22,14 +22,14 @@ const loveMessages = [
 const funnyGifs = [
     'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzM1dWpxemRsenVkeXZ1czk5cWN3b2V4cmRoMWwxOTc5emZleTB0NSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/3CCXHZWV6F6O9VQ7FL/giphy.gif', // love you
     'https://media.tenor.com/2uyENRmiUt0AAAAC/love.gif', // love
-    'https://media.tenor.com/6Fz1bQKj5n8AAAAC/kiss-love.gif', // kiss
-    'https://media.tenor.com/8QF6Qn6Qb1wAAAAC/hug-couple.gif', // hug couple
-    'https://media.tenor.com/2Z4b6QwQK9wAAAAC/heart-cute.gif', // heart cute
-    'https://media.tenor.com/9QF6Qn6Qb1wAAAAC/couple-cuddle.gif', // cuddle
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzJybWMxcnFjZWZhdWdjeGZ1OXBlN3pmMmdhc3ZkbW8xem5jdjF4MCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/RSk4bOw2ptIkAcVxK2/giphy.gif', // kiss
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzJybWMxcnFjZWZhdWdjeGZ1OXBlN3pmMmdhc3ZkbW8xem5jdjF4MCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/12noFudALzfIynHuUp/giphy.gif', // The rock
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDZtY3lkMmhhemxuem1zZXZtNWFmc3p5MXlsbjNjdTllZnl0dDd3YiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/hSehTEaPbOzZL2ibPq/giphy.gif', // Good Night
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXdzcHF2a3NzMXB3aTFvOXd1azZxM2lpa3UwM2pwZzh3eW1jZTZ2ZCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l2Jhok92mZ2PZHjDG/giphy.gif', // Minions
     'https://media.tenor.com/3QF6Qn6Qb1wAAAAC/romantic-couple.gif', // romantic couple
     'https://media.tenor.com/4QF6Qn6Qb1wAAAAC/romantic-love.gif', // romantic love
     'https://media.tenor.com/5QF6Qn6Qb1wAAAAC/romantic-kiss.gif', // romantic kiss
-    'https://media.tenor.com/7QF6Qn6Qb1wAAAAC/romantic-hug.gif' // romantic hug
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzBtaGgyOWw3MW9kenQxd2k1NWpmbG05bzF5YXg4YXk4Z2hxcmNhNSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/xYGnFm4mVcMxYIVq3v/giphy.gif' // Trevor Noah
 ];
 
 let msgIndex = 0;
