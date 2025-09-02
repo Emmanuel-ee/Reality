@@ -20,7 +20,7 @@ const loveMessages = [
 ];
 
 const funnyGifs = [
-    'https://media.tenor.com/1c6vQvQw1g8AAAAC/love-you.gif', // love you
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzM1dWpxemRsenVkeXZ1czk5cWN3b2V4cmRoMWwxOTc5emZleTB0NSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/3CCXHZWV6F6O9VQ7FL/giphy.gif', // love you
     'https://media.tenor.com/2uyENRmiUt0AAAAC/love.gif', // love
     'https://media.tenor.com/6Fz1bQKj5n8AAAAC/kiss-love.gif', // kiss
     'https://media.tenor.com/8QF6Qn6Qb1wAAAAC/hug-couple.gif', // hug couple
