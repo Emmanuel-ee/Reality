@@ -20,16 +20,16 @@ const loveMessages = [
 ];
 
 const funnyGifs = [
-    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzM1dWpxemRsenVkeXZ1czk5cWN3b2V4cmRoMWwxOTc5emZleTB0NSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/3CCXHZWV6F6O9VQ7FL/giphy.gif', // love you
-    'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJtZ2lvcmFlajFvY21vYWRyN2V4eHU2dzR4MHFuc2ppMGN0OGhoZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRwk0JhSrHiUAb6/giphy.gif', // love
-    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzJybWMxcnFjZWZhdWdjeGZ1OXBlN3pmMmdhc3ZkbW8xem5jdjF4MCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/RSk4bOw2ptIkAcVxK2/giphy.gif', // kiss
-    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzJybWMxcnFjZWZhdWdjeGZ1OXBlN3pmMmdhc3ZkbW8xem5jdjF4MCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/12noFudALzfIynHuUp/giphy.gif', // The rock
-    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDZtY3lkMmhhemxuem1zZXZtNWFmc3p5MXlsbjNjdTllZnl0dDd3YiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/hSehTEaPbOzZL2ibPq/giphy.gif', // Good Night
-    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXdzcHF2a3NzMXB3aTFvOXd1azZxM2lpa3UwM2pwZzh3eW1jZTZ2ZCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l2Jhok92mZ2PZHjDG/giphy.gif', // Minions
-    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXdzcHF2a3NzMXB3aTFvOXd1azZxM2lpa3UwM2pwZzh3eW1jZTZ2ZCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/VbnUQpnihPSIgIXuZv/giphy.gif', // romantic couple
-    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWpranBndXJqaHlzdGpxcmw3ZjFlcHUyam9pNDFjZXdjYmZ1dmcyeSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/g99MDPavNBLC8/giphy.gif', // romantic love
-    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aTNiNm9lZGMyYTQzM3l6Z3RpcDNodzAxZWI3NXhyZXJpeWJjNG9wMiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/T1GGaGC2oB9VMKURwU/giphy.gif', // romantic kiss
-    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzBtaGgyOWw3MW9kenQxd2k1NWpmbG05bzF5YXg4YXk4Z2hxcmNhNSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/xYGnFm4mVcMxYIVq3v/giphy.gif' // Trevor Noah
+    'https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFqdzN5MXZocndvN3BsYTA4YTR2eXhreDliOGl5bmFqdmp0bmVodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4N1wOi78ZGzSB6H7vK/giphy.gif', // love you
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzRoeWF1MnVrYnBid3J4b2ZraWd6anZubmU1eHA5cTI0bjIwODAyeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bWsZamNpZbKYE/giphy.gif', // love
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTd5dThoZ3ZkOHJjN2UyeWhwaHl4ZmhraG15MHVvYzk0N3VuMmdzNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9tZebYjE6ZhyfVpEac/giphy.gif', // kiss
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnlhMWl4OWx6MXY0OGxpMTNmNnZ1YzZobGhhdm5obDY3NnNiNzJxdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4kw3Cebu7r37XJYJ4I/giphy.gif', // The rock
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a3pueGRzdXNocjYwZG03OHRibnhlZWRpeHZ1NGVuaW45ZDV2Zzk3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KjSr4GMmt4EuI/giphy.gif', // Good Night
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHY4NXMzM3FqdW96YW1hNzk4MHc3eGp1eXc5c2Q4aDE3NGZ5MWY5ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l2R0aKwejYr8ycKAg/giphy.gif', // Minions
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHY4NXMzM3FqdW96YW1hNzk4MHc3eGp1eXc5c2Q4aDE3NGZ5MWY5ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NyxJ4J2ZWWdaLpplTI/giphy.gif', // romantic couple
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3h5aGc2a2Q2cTA4djhxa3AwMXM0OWt5NWNkMG84MndoaXZqMTZueCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9RNTa0Hf5cTJmiyjGS/giphy.gif', // romantic love
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDJiaXJheDQzMWxhdng1MnE5N3d0N3dtb205bnpqdmFmMTc3MGoycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oxRmq2QcuORRdlKXS/giphy.gif', // romantic kiss
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGRsbzJoZjdrYWhsazF5YXBuMXR5NWR0dXlobGRqZGFkNXZzYWtpeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xYGnFm4mVcMxYIVq3v/giphy.gif' // Trevor Noah
 ];
 
 let msgIndex = 0;
