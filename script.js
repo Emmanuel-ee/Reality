@@ -20,17 +20,22 @@ const loveMessages = [
 ];
 
 const funnyGifs = [
-    'https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif', // dancing
-    'https://media.giphy.com/media/1BcfiGlOGXzQk/giphy.gif', // heart
+    // Romantic, funny, and affectionate GIFs
+    'https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif', // blowing kiss
+    'https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif', // cute dance
+    'https://media.giphy.com/media/1BcfiGlOGXzQk/giphy.gif', // hearts
     'https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif', // hug
+    'https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif', // couple snuggle
     'https://media.giphy.com/media/3o6Zt8zb1PpQb6vHHa/giphy.gif', // smile
     'https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif', // wink
+    'https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif', // happy dance
     'https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif', // funny
-    'https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif', // African dance
     'https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif', // African woman
+    'https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif', // heart eyes
+    'https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif', // dancing
+    'https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif', // couple holding hands
     'https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif', // Ankara
-    'https://media.giphy.com/media/3o6Zt8zb1PpQb6vHHa/giphy.gif', // smile
-    'https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif' // Ankara
+    'https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif' // couple snuggle
 ];
 
 let msgIndex = 0;
