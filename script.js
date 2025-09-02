@@ -21,14 +21,14 @@ const loveMessages = [
 
 const funnyGifs = [
     'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzM1dWpxemRsenVkeXZ1czk5cWN3b2V4cmRoMWwxOTc5emZleTB0NSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/3CCXHZWV6F6O9VQ7FL/giphy.gif', // love you
-    'https://media.tenor.com/2uyENRmiUt0AAAAC/love.gif', // love
+    'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJtZ2lvcmFlajFvY21vYWRyN2V4eHU2dzR4MHFuc2ppMGN0OGhoZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRwk0JhSrHiUAb6/giphy.gif', // love
     'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzJybWMxcnFjZWZhdWdjeGZ1OXBlN3pmMmdhc3ZkbW8xem5jdjF4MCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/RSk4bOw2ptIkAcVxK2/giphy.gif', // kiss
     'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzJybWMxcnFjZWZhdWdjeGZ1OXBlN3pmMmdhc3ZkbW8xem5jdjF4MCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/12noFudALzfIynHuUp/giphy.gif', // The rock
     'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDZtY3lkMmhhemxuem1zZXZtNWFmc3p5MXlsbjNjdTllZnl0dDd3YiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/hSehTEaPbOzZL2ibPq/giphy.gif', // Good Night
     'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXdzcHF2a3NzMXB3aTFvOXd1azZxM2lpa3UwM2pwZzh3eW1jZTZ2ZCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l2Jhok92mZ2PZHjDG/giphy.gif', // Minions
-    'https://media.tenor.com/3QF6Qn6Qb1wAAAAC/romantic-couple.gif', // romantic couple
-    'https://media.tenor.com/4QF6Qn6Qb1wAAAAC/romantic-love.gif', // romantic love
-    'https://media.tenor.com/5QF6Qn6Qb1wAAAAC/romantic-kiss.gif', // romantic kiss
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXdzcHF2a3NzMXB3aTFvOXd1azZxM2lpa3UwM2pwZzh3eW1jZTZ2ZCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/VbnUQpnihPSIgIXuZv/giphy.gif', // romantic couple
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWpranBndXJqaHlzdGpxcmw3ZjFlcHUyam9pNDFjZXdjYmZ1dmcyeSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/g99MDPavNBLC8/giphy.gif', // romantic love
+    'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aTNiNm9lZGMyYTQzM3l6Z3RpcDNodzAxZWI3NXhyZXJpeWJjNG9wMiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/T1GGaGC2oB9VMKURwU/giphy.gif', // romantic kiss
     'https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzBtaGgyOWw3MW9kenQxd2k1NWpmbG05bzF5YXg4YXk4Z2hxcmNhNSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/xYGnFm4mVcMxYIVq3v/giphy.gif' // Trevor Noah
 ];
 
